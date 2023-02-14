@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Test
+Readme for shell redirections
